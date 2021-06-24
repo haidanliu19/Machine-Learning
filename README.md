@@ -5,4 +5,4 @@
 3. hands-on machine learning - inflearn
 4. 혼자 공부하는 머신러닝+딥러닝
 5. 머신러닝과 딥러닝 BASIC edwith
-
+6. 처음 배우는 인공지능
